@@ -56,7 +56,7 @@ Ce projet a été réalisé dans le cadre d'un **stage**, et répond à un cahie
   - **reçoit** les trames des 4 autres nœuds (aucun filtrage) ;
   - fait office de **pont CAN ↔ UART** : toutes les trames CAN reçues (et émises) sont retransmises au PC ;
   - **répond par une trame CAN** à la réception d'une commande UART spécifique.
-- Chaque stagiaire dispose de **son propre PC, sa carte et son dashboard**.
+- Chaqu'un de l'équipe dispose de **son propre PC, sa carte et son dashboard**.
 
 ```mermaid
 flowchart LR
