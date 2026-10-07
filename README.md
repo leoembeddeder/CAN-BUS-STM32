@@ -8,8 +8,7 @@
 
 Réseau de **5 nœuds STM32** communiquant sur un **bus CAN** à la manière des calculateurs d'un véhicule (moteur, ABS, portes, vitres…). Chaque nœud joue aussi le rôle de **passerelle CAN ↔ UART** vers un **dashboard Python** temps réel, avec retour de commandes (ouvrir une porte, fermer une vitre…) qui se traduisent en trames CAN.
 
-> 📸 *Insérer ici une capture d'écran du dashboard ou un GIF de la démo : `![Demo](Images/demo.gif)`*
-
+[Démo du dashboard](Images/demo.gif)
 ---
 
 ## 📑 Sommaire
